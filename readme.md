@@ -16,15 +16,19 @@
 
 ### Examples Markdown
 1.  code:
+
 >        <html>
 >            <head>
 >                <title> Hello World </title>
 >            <\head>
 >        <\html>
+
 2.  other code, with python:
 
-        import hsr from hetter
-        jdk = hsr.getInstance()
+```python
+    import hsr from hetter
+    jdk = hsr.getInstance()
+```
 
 3.  image:
 
